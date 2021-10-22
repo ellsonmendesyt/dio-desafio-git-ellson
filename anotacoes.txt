@@ -1,0 +1,33 @@
+Elson
+
+Comandos git
+
+IR PRA UMA BRANCH  
+git checkout <nome>
+
+
+VER TODAS AS BRANCHES
+git branch --list
+
+
+
+RENOMEAR
+git branch -m <novonome>
+
+git checkout master
+
+git branch -m nomeantigo novonome
+
+
+
+LISTA TODAS AS BRANCHES LOCAIS E REMOTAS
+git branch -a
+
+
+
+INSPECIONAR
+git log
+
+
+
+git log --summary
